@@ -1,0 +1,3 @@
+using .LDIPM
+
+LDIPM.greet()

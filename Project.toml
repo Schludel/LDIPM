@@ -1,0 +1,7 @@
+name = "LDIPM"
+uuid = "74d9c1fd-4408-46d5-9cda-e0e9a4180229"
+authors = ["Pascal Schindler <pascal.schindler@gmx.de>"]
+version = "0.1.0"
+
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
